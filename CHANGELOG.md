@@ -45,3 +45,8 @@
 ## [0.1.2] - 07/03/2024.
 
 * updated pubs files 
+
+## [0.1.3] - 25/10/2024.
+
+* updated pubs files
+* updated readme file
