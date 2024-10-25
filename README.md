@@ -1,8 +1,8 @@
 #  sqflite_preferences
 
-sqflite preferences is an approach to simulate the sharedpreferences behaveir through sqflite library
+sqflite preferences is an approach to simulate the sharedpreferences behavior through sqflite library presenting great speed in saving and retrieving data without the need for the operation to be an asynchronous operation.
 
-https://github.com/ahmedkubur/sqflite_preferences
+https://github.com/devahmedismail/sqflite_preferences
 
 ## Usage
 How to use
@@ -312,5 +312,12 @@ class _Page2State extends State<Page2> {
     );
   }
 }
-```#   s q f l i t e _ p r e f e r e n c e s  
- 
+```
+
+
+## Donations
+
+You find this package helpfull buy me a cub of coffee:
+
+monero:46MoVaji2M31nZzCG4vwMzaprk1FNfTEodGusJY42xSwUYw5nReGM9f8rvRMCCDEwWEesqmtq4bUrHTBC9X9GTxTRtxAvVY
+
